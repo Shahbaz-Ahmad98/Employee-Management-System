@@ -1,0 +1,21 @@
+# React
+**/node_modules/
+**/dist/
+**/.env
+**/.env.*
+
+# Spring Boot
+**/target/
+**/build/
+**/.gradle/
+
+# IntelliJ IDEA
+.idea/
+**/*.iml
+
+# VS Code
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
